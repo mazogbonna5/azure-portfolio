@@ -8,11 +8,11 @@ It demonstrates how to manage and maintain core Azure resources, including virtu
 ---
 
 ## Objectives
-- Update and configure Azure Virtual Networks (VNets)
-- Manage and resize Virtual Machines (VMs)
-- Control access to Azure Storage accounts
-- Apply resource tags and locks for governance
-- Practice cost and resource optimization
+- Update and configure Azure Virtual Networks (VNets).
+- Manage and resize Virtual Machines (VMs).
+- Control access to Azure Storage accounts.
+- Apply resource tags and locks for governance.
+- Practice cost and resource optimization.
 
 ---
 
