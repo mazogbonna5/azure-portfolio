@@ -2,7 +2,7 @@
 
 # Azure Resource Management Project
 
-This project is based on the Microsoft Learn guided project **"Update and Maintain Azure Resources"**.  
+This project is based on the Microsoft Learn project **"Update and Maintain Azure Resources"**.  
 It demonstrates how to manage and maintain core Azure resources, including virtual networks, virtual machines, and storage accounts.
 
 ---
