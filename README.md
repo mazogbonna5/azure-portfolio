@@ -18,8 +18,11 @@ It demonstrates how to manage and maintain core Azure resources, including virtu
 
 ## Tools & Technologies
 - **Azure Portal**
-- **Resource Groups, VNets, VMs, Storage Accounts**
-- **Tags & Locks**
+- **Resource Groups**
+- **VNets**
+- **VMs**
+- **Storage Accounts**
+- **Resource Tags & Locks**
 
 ---
 
@@ -32,8 +35,3 @@ It demonstrates how to manage and maintain core Azure resources, including virtu
 
 ---
 
-
-Example:
-```markdown
-![VNet Setup](images/vnet-setup.png)
-![VM Resize](images/vm-resize.png)
