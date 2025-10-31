@@ -18,7 +18,6 @@ It demonstrates how to manage and maintain core Azure resources, including virtu
 
 ## Tools & Technologies
 - **Azure Portal**
-- **Azure CLI / PowerShell**
 - **Resource Groups, VNets, VMs, Storage Accounts**
 - **Tags & Locks**
 
